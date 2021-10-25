@@ -6,5 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm in career transition, learning everything from zero to 33 years old.
 
+![Yoda Star Wars GIF](https://tenor.com/view/yoda-star-wars-learning-gif-14395199.gif)
+
 [![Meu perfil Twiter](https://img.shields.io/twitter/follow/alinerivieri?style=social)](https://www.twitter.com/alinerivieri) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinerivieri)](https://www.linkedin.com/in/alinerivieri)
