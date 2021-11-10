@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Aline Rivieri
 
-- 🔭 I’m currently studying systems analysis and development
-- 🌱 I’m currently learning about Javascript, HTML, CSS, React...
-- 🤔 I’m looking for help with Front End
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm in career transition, learning everything from zero to 33 years old.
+🔭 I’m currently studying systems analysis and development
+🌱 I’m currently learning about Javascript, HTML, CSS, React...
+🤔 I’m looking for help with career transition,
+😄 Pronouns: She/Her
+⚡ Fun fact: I'm 33 years old and I'm learning everything from scratch (including english, sorry). I want to have geographical freedom and work with what I love!
 
 ![Yoda Star Wars GIF](https://tenor.com/view/yoda-star-wars-learning-gif-14395199.gif)
 
