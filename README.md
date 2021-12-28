@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Aline Rivieri
 
-<img align="right" alt="Aline-pic" height="150" style="border-radius:70px;" src="https://github.com/alinerivieri/teste/blob/master/Webp.net-gifmaker%20(1).gif?raw=true?width=676&height=676">
-
 🔭 I’m currently studying systems analysis and development
 
 🌱 I’m currently learning about Javascript, HTML, CSS, React...
