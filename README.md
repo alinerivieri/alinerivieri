@@ -9,8 +9,8 @@
 ⚡ Fun fact: I'm 33 years old and I'm learning everything from scratch (including english, sorry). I want to have geographical freedom and work with what I love!
 
   <a href="https://github.com/alinerivieri">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alinerivieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinerivieri&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinerivieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinerivieri&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
