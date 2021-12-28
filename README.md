@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Aline Rivieri
 
+<img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://github.com/alinerivieri/teste/blob/master/Webp.net-gifmaker.gif?width=676&height=676">
+
 🔭 I’m currently studying systems analysis and development
 
 🌱 I’m currently learning about Javascript, HTML, CSS, React...
@@ -7,8 +9,7 @@
 🤔 I’m looking for help with career transition,
 
 ⚡ Fun fact: I'm 33 years old and I'm learning everything from scratch (including english, sorry). I want to have geographical freedom and work with what I love!
-
- <img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://github.com/alinerivieri/teste/blob/master/Webp.net-gifmaker.gif?width=676&height=676">
+ 
  <br>
  <div>
   <a href="https://github.com/alinerivieri">
