@@ -8,18 +8,19 @@
 
 ⚡ Fun fact: I'm 33 years old and I'm learning everything from scratch (including english, sorry). I want to have geographical freedom and work with what I love!
 
+ <img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://github.com/alinerivieri/teste/blob/master/Webp.net-gifmaker.gif?width=676&height=676">
+ <br>
+ <div>
   <a href="https://github.com/alinerivieri">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinerivieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinerivieri&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://github.com/alinerivieri/teste/blob/master/Webp.net-gifmaker.gif?width=676&height=676">
 <br>
 <div> 
   <a href="https://instagram.com/thelinecode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
