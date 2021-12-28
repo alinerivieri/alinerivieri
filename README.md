@@ -19,6 +19,7 @@
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://github.com/alinerivieri/teste/blob/master/Webp.net-gifmaker.gif?width=676&height=676">
 <br>
 <div> 
   <a href="https://instagram.com/thelinecode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
