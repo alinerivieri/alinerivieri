@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Aline Rivieri
 
-🔭 I’m currently studying systems analysis and development
+🤓 I am starting my career transition to becoming a Front-End Developer
 
-🌱 I’m currently learning about Javascript, HTML, CSS, React...
+📚 I’m currently studying systems analysis and development
 
-🤔 I’m looking for help with career transition,
-
-⚡ Fun fact: I'm 33 years old and I'm learning everything from scratch (including english, sorry). I want to have geographical freedom and work with what I love!
+🌱 I’m currently learning about Javascript, HTML, CSS, ReactJS...
  
  <br>
  <div>
