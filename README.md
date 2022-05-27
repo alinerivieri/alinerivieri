@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aline Rivieri
 
-🤓 I am starting my career transition to becoming a Front-End Developer
+🤓 I am a Front-End Developer
 
 📚 I’m currently studying systems analysis and development
 
