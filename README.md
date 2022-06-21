@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Aline Rivieri
+### Hello there 👋 I'm Aline Rivieri
 
-🤓 I am a Front-End Developer
+👩‍💻 I am a Front-End Developer
 
-📚 I’m currently studying systems analysis and development
+📚 I’m currently studying Systems Analysis and Development
 
-🌱 I’m currently learning about Javascript, HTML, CSS, ReactJS...
+🌱 I'm programming with HTML, CSS, JavaScript, ReactJS, Tailwind, Bootstrap, SASS and learning about Firebase, Node...
  
  <br>
  <div>
