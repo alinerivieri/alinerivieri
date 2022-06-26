@@ -1,5 +1,5 @@
 <h1 align='center'> Hello There, I'm Aline Rivieri 👋 <br />
-  Front-end dev with focus on web development</h1>
+  I'm a Front-end dev</h1>
 
 <div align="center">
   <img width="221px" height="221px" src="https://alinerivieri.vercel.app/static/media/photo.205791065438446ac263.png"
@@ -12,6 +12,8 @@
   I hope you find all the information you need. If not, don't hesitate to send me a message on the channels below 👇
 </div>
 
+<br>
+<br>
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/alinelrivieri/" target="blank"><img align="center"
@@ -27,7 +29,8 @@
   <a href='mailto:alinerrivieri@gmail.com' target="blank"><img width='40px' align='center'
       src="https://cdn-icons.flaticon.com/png/512/4100/premium/4100148.png?token=exp=1656254137~hmac=7b89d6ab1676854b0709d25e45a77b62" /></a>
 </p>
-
+<br>
+<br>
 <h2 align="center">A little about myself</h2>
 
 👩‍💻 I have a degree in Management Processes from Estácio de Sá, I worked for more than 10 years in the administrative
@@ -44,13 +47,13 @@ learning, I learned to learn, maintaining dedication and discipline.
 ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS etc.
 
 
-
-
+<br>
+<br>
 <h2 align='center'> What I have used most often nowadays 👩‍💻 </h2>
 <p align='center'>
-  <img width='50px' align='center'
+  <img width='40px' align='center'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-  <img width='50px' align='center'
+  <img width='40px' align='center'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
   <img width='40px' align='center'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
@@ -66,6 +69,7 @@ ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS 
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
 
   <br>
+  <br>
 </p>
 
 <h2 align="center"> My GitHub Stats </h2>
@@ -73,9 +77,5 @@ ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS 
   <a href="https://github.com/alinerivieri/github-readme-stats">
     <img width='400px' align='center'
       src="https://github-readme-stats.vercel.app/api?username=alinerivieri&count_private=true&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/alinerivieri/convoychat">
-    <img width='400px' align='center'
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinerivieri&theme=radical" />
   </a>
 </div>
