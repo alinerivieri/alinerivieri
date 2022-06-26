@@ -68,14 +68,7 @@ ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS 
   <img width='40px' align='center'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
 
-  <br>
-  <br>
 </p>
-
-<h2 align="center"> My GitHub Stats </h2>
-<div align='center'>
-  <a href="https://github.com/alinerivieri/github-readme-stats">
-    <img width='400px' align='center'
-      src="https://github-readme-stats.vercel.app/api?username=alinerivieri&count_private=true&show_icons=true&theme=radical" />
-  </a>
-</div>
+  <br>
+  <br>
+<img width ='100%' align='center' src="https://github.com/alinerivieri/portifolio/blob/main/src/assets/portifolio.gif?raw=true" />
