@@ -14,7 +14,7 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/alinelrivieri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aline-rivieri" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thelinecode/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aline-rivieri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thelinecode/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1656253849~hmac=4c1804214de0dd4127fc4ab8916460d0" alt="aline-rivieri" height="30" width="40" /></a>
 <a href='https://alinerivieri.vercel.app/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 <a href = 'https://github.com/alinerivieri'> <img width = '44px' align= 'center' src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966"/></a>
 </p>
