@@ -37,6 +37,8 @@
 area, being my last experience in purchasing, where I was able to develop interpersonal communication, empathy and
 conflict resolution.
 
+🎓 I am currently in the second year of the Systems Analysis and Development course.
+
 ❤ I've had a passion since childhood for everything related to technology and now as an adult, I rediscovered myself in
 this programming path.
 
