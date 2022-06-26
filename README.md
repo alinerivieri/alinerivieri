@@ -1,5 +1,5 @@
 <h1 align='center'> Hello There, I'm Aline Rivieri 👋 <br />
-  I'm a Front-end dev</h1>
+  I'm a Front-end developer</h1>
 
 <div align="center">
   <img width="221px" height="221px" src="https://alinerivieri.vercel.app/static/media/photo.205791065438446ac263.png"
