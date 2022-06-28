@@ -20,7 +20,7 @@
       src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955051.png?token=exp=1656253947~hmac=5b5383395a46971187cbd6a418b92eb5"
       alt="aline-rivieri" height="40" /></a>
   <a href="https://www.instagram.com/thelinecode/" target="_blank"><img align="center"
-      src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1656253849~hmac=4c1804214de0dd4127fc4ab8916460d0"
+      src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1656417589~hmac=f66f4ca691847ffb5b5bf535c63854d3"
       alt="aline-rivieri" height="40" /></a>
   <a href='https://alinerivieri.vercel.app/' target="_blank"> <img width='40px' align='center'
       src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1656253951~hmac=5fc64a3c2711633bbc25737b221125ff" /></a>
