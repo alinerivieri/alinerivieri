@@ -17,7 +17,7 @@
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/alinelrivieri/" target="_blank"><img align="center"
-      src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1656863845~hmac=1a0c85a79e6ff1d27f32a7cd11fb8bfe"
+      src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1656863889~hmac=5342fd62c1d467a3bef745f2b5797279"
       alt="aline-rivieri" height="40" /></a>
   <a href="https://www.instagram.com/thelinecode/" target="_blank"><img align="center"
       src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1656417589~hmac=20dadafe51aa76109f8ef09128da0e53"
