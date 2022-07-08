@@ -17,17 +17,17 @@
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/alinelrivieri/" target="_blank"><img align="center"
-      src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1656863889~hmac=5342fd62c1d467a3bef745f2b5797279"
+      src="https://github.com/alinerivieri/images/blob/main/linkedin.png?raw=true"
       alt="aline-rivieri" height="40" /></a>
   <a href="https://www.instagram.com/thelinecode/" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"
+      src="https://github.com/alinerivieri/images/blob/main/instagram.png?raw=true"
       alt="aline-rivieri" height="40" /></a>
   <a href='https://alinerivieri.vercel.app/' target="_blank"> <img width='40px' align='center'
-      src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1656253951~hmac=5fc64a3c2711633bbc25737b221125ff" /></a>
+      src="https://github.com/alinerivieri/images/blob/main/rede.png?raw=true" /></a>
   <a href='https://github.com/alinerivieri' target="_blank"> <img width='40px' align='center'
       src="https://github.com/alinerivieri/images/blob/main/github.png?raw=true" /></a>
   <a href='mailto:alinerrivieri@gmail.com' target="_blank"><img width='40px' align='center'
-      src="https://cdn-icons.flaticon.com/png/512/4100/premium/4100148.png?token=exp=1656254137~hmac=7b89d6ab1676854b0709d25e45a77b62" /></a>
+      src="https://github.com/alinerivieri/images/blob/main/o-email.png?raw=true" /></a>
 </p>
 <br>
 <br>
