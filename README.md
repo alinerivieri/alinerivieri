@@ -25,7 +25,7 @@
   <a href='https://alinerivieri.vercel.app/' target="_blank"> <img width='40px' align='center'
       src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1656253951~hmac=5fc64a3c2711633bbc25737b221125ff" /></a>
   <a href='https://github.com/alinerivieri' target="_blank"> <img width='40px' align='center'
-      src="https://cdn-icons-png.flaticon.com/512/270/270798.png" /></a>
+      src="https://github.com/alinerivieri/images/blob/main/github.png?raw=true" /></a>
   <a href='mailto:alinerrivieri@gmail.com' target="_blank"><img width='40px' align='center'
       src="https://cdn-icons.flaticon.com/png/512/4100/premium/4100148.png?token=exp=1656254137~hmac=7b89d6ab1676854b0709d25e45a77b62" /></a>
 </p>
