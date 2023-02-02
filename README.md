@@ -2,11 +2,6 @@
   I'm a Front-end developer</h1>
 
 <div align="center">
-  <img width="221px" height="221px" src="https://alinerivieri.vercel.app/static/media/photo.205791065438446ac263.png"
-    alt="cover" />
-</div>
-
-<div align="center">
   Thank You for taking the time to view my GitHub Profile :)
 
   I hope you find all the information you need. If not, don't hesitate to send me a message on the channels below 👇
