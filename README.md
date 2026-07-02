@@ -6,9 +6,6 @@
 
   I hope you find all the information you need. If not, don't hesitate to send me a message on the channels below 👇
 </div>
-
-<br>
-<br>
 <br>
 <h2 align="center">A little about myself</h2>
 
